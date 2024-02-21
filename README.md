@@ -30,7 +30,7 @@ You will need to follow these steps to generate your own OpenAI API Key: -
 To setup the ChatGPT App, you will need to follow these steps:
 
 1. Clone this repository to your local machine using `git clone https://github.com/Chamith-Rthnayaka/ChatGPT.git`.
-2. Navigate to the cloned repository using `cd ChatGPT-app-Flutter`.
+2. Navigate to the cloned repository using `cd ChatGPT`.
 3. Install the necessary packages by running `flutter pub get`.
 4. Add your OpenAI API key to the `lib/constants/api_consts.dart` file.
 5. Run the app on an emulator or a physical device using `flutter run`.
