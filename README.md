@@ -20,7 +20,7 @@ You will need to follow these steps to generate your own OpenAI API Key: -
 
 1. Visit https://openai.com/blog/openai-api.
 2. Log in or Sign up in to your account.
-3. Select the 3rd option or API option here. ![image](https://github.com/Chamith-Rthnayaka/ChatGPT/blob/main/assets/images/246618506-82b6ff70-c9e1-43a0-8771-f9017a6590a9.jpg)
+3. Select the 3rd option or API option here. ![image](https://github.com/Chamith-Rthnayaka/ChatGPT/blob/main/assets/images/246618506-82b6ff70-c9e1-43a0-8771-f9017a6590a9.png)
 4. Click on your account and navigate to **View API Keys**.
 5. Click on **Create new Secret Key**.
 6. And Boom, your OpenAI API Key is generated successfully.
